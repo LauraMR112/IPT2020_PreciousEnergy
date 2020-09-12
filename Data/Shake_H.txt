@@ -1,0 +1,23 @@
+# Data correspond to the voltage measured by the oscilloscope [mv]
+# total time = 7.462 s
+166
+128
+207
+190
+190
+229
+197
+197
+181
+164
+155
+150
+150
+193
+209
+209
+151
+152
+152
+51.9
+3.55
